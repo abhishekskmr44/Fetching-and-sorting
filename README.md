@@ -36,3 +36,15 @@ https://www.youtube.com/watch?v=toRJakeYIKA
 
 13.)Queue
 https://www.youtube.com/watch?v=ojGf3SH7n48
+
+14.)Tree
+https://www.youtube.com/watch?v=2gu3ACsq2jI
+
+15.)Graph Data Structure Summary
+https://www.youtube.com/watch?v=g8IiBK9r3Aw
+
+16.)Hash Table/Dictionary Animation
+https://www.youtube.com/watch?v=9zqGQQly0To
+
+17.)Linked List Data Structure Animation
+https://www.youtube.com/watch?v=qE4dyOKX0gw
