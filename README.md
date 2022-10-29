@@ -33,3 +33,6 @@ https://www.youtube.com/watch?v=p6I7LIUqQnU
 
 12.)Stack
 https://www.youtube.com/watch?v=toRJakeYIKA
+
+13.)Queue
+https://www.youtube.com/watch?v=ojGf3SH7n48
