@@ -48,3 +48,6 @@ https://www.youtube.com/watch?v=9zqGQQly0To
 
 17.)Linked List Data Structure Animation
 https://www.youtube.com/watch?v=qE4dyOKX0gw
+
+18.)Binary Search
+https://www.youtube.com/watch?v=DRsJ8sA9xzc
